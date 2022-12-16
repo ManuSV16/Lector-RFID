@@ -1,4 +1,4 @@
-#nombre = "Alex Dominguez"
+#nombre = "Manuel Sanchez"
 #texto = "Texto del RFID"
 #rfid = 93110154
 

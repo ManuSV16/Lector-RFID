@@ -15,7 +15,7 @@ args = parser.parse_args()
 reader = SimpleMFRC522()
 
 #Realizar la conexión
-cnx = mysql.connector.connect(user='alex', password='4892', host = '192.168.1.109', database = 'codigoIoT')
+cnx = mysql.connector.connect(user='Manuel16', password='96luam21', host = '192.168.100.73', database = 'codigoIoT')
 #Cursor
 cursor = cnx.cursor()
 
